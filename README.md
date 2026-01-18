@@ -1,4 +1,4 @@
-# WIP
+# WIP & AI Generated
 
 # Backend: GCP Cloud Run + Pub/Sub + Firestore (with Firebase Auth)
 
