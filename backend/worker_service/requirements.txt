@@ -1,0 +1,6 @@
+
+fastapi==0.115.5
+uvicorn[standard]==0.30.6
+yt-dlp==2025.12.08
+google-cloud-firestore==2.19.0
+google-cloud-storage==2.18.0
