@@ -55,3 +55,7 @@ These services are intended for Cloud Run, but you can run locally with ADC:
 
 ## Note about ffmpeg on Cloud Run
 Install ffmpeg in your worker container (recommended) or provide `FFMPEG_PATH`.
+
+## Note about project
+This is proof of conecept project seeing how far a user can push a complete AI generated project. From the looks of it and initial testing and prototyping everything is in order. There may be potential wiriring issue between https://github.com/DaemonCypher/MediaMinerFrontend/tree/main and this repo.
+
